@@ -10,12 +10,16 @@ Vamos ao teste!
 
 ## Desafio da locadora!
 
-Sua missão é reproduzir o mockup abaixo
+Sua missão é reproduzir uma tela Web e uma tela App do mockup:
 https://www.figma.com/file/P0zQ2UvwTrqkXRMX49H8xf/Teste-Front-Locadora?node-id=0%3A1
 
 ## Regras de negócio
 - Deve ser responsivo
-- Se você achar necessário, pode tratar o json de exemplo
+- Ser possível filtrar dados na tela Web
+- Utilizar o json no grid
+
+## Opcional
+- Tratar o json de exemplo
 
 
 ## Dados que devem ser usados na listagem do grid
